@@ -1,5 +1,6 @@
 # dio-live-dynamodb
-Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
+Fork do "Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB" para entrega do desafio "Boas práticas com DynamoDB".
+Por Kleim4n
 
 ### Serviço utilizado
   - Amazon DynamoDB
